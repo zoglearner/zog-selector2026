@@ -110001,7 +110001,10 @@ function queryMother() {
   let memeHtml = '';
   const memeRule = motherCount === 1 ? matches[0].rule : '未匹配';
   
-  const imageName = existingImages.includes(memeRule) ? memeRule : null;
+  // 从多个规则中随机选择一个（如 G1-1+G1-2 随机选一个）
+  const rules = memeRule.split('+');
+  const selectedRule = rules[Math.floor(Math.random() * rules.length)];
+  const imageName = existingImages.includes(selectedRule) ? selectedRule : null;
   if (imageName) {
 memeHtml = `<img src="./${imageName}.jpg" class="result-meme" alt="梗图">`;
   } else {
@@ -110041,7 +110044,10 @@ const existingImages = ['G1-1', 'G1-2', 'G2-1', 'G2-2', 'G3', '未匹配'];
 function showRuleMeme(rule) {
   if (!memeModal) return;
   
-  const imageName = existingImages.includes(rule) ? rule : null;
+  // 从多个规则中随机选择一个（如 G1-1+G1-2 随机选一个）
+  const rules = rule.split('+');
+  const selectedRule = rules[Math.floor(Math.random() * rules.length)];
+  const imageName = existingImages.includes(selectedRule) ? selectedRule : null;
   
   if (imageName) {
     // 显示图片

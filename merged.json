@@ -442,7 +442,7 @@
     "bosyuPrice": 3520,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 3520,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -2654,7 +2654,7 @@
     "bosyuPrice": 1980,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 1980,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -15086,7 +15086,7 @@
     "bosyuPrice": 7040,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 7040,
     "group": 2,
     "rule": "G2-3",
     "reason": "非北社系牧场高募集价"
@@ -24452,10 +24452,10 @@
     "bosyuPrice": 9900,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 9900,
     "group": 2,
-    "rule": "G2-3",
-    "reason": "非北社系牧场高募集价"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024101748",
@@ -24805,7 +24805,7 @@
     "salePrice": 9680,
     "group": 2,
     "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024101773",
@@ -27588,7 +27588,7 @@
     "bosyuPrice": 5280,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 5280,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -50867,13 +50867,13 @@
     "club": null,
     "breederCode": "71030300",
     "breederName": "ビッグレッドファーム",
-    "bosyuPrice": 1000,
+    "bosyuPrice": 11000,
     "bosyuUnit": 100,
     "saleName": null,
     "salePrice": null,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "group": 2,
+    "rule": "G2-3",
+    "reason": "非北社系牧场高募集价"
   },
   {
     "horseId": "2024103635",
@@ -54709,7 +54709,7 @@
     "salePrice": 8140,
     "group": 2,
     "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024103909",
@@ -58654,7 +58654,7 @@
     "bosyuPrice": 5940,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 5940,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -58794,7 +58794,7 @@
     "bosyuPrice": 2750,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 2750,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -59270,7 +59270,7 @@
     "bosyuPrice": 1870,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 1870,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -60544,10 +60544,10 @@
     "bosyuPrice": 3100,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 23100,
+    "group": 1,
+    "rule": "G1-2",
+    "reason": "精选/Mix高价马"
   },
   {
     "horseId": "2024104326",
@@ -64058,7 +64058,7 @@
     "bosyuPrice": 4400,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 4400,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -65405,7 +65405,7 @@
     "salePrice": 8580,
     "group": 2,
     "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024104673",
@@ -65951,7 +65951,7 @@
     "salePrice": 7920,
     "group": 2,
     "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024104712",
@@ -66074,7 +66074,7 @@
     "bosyuPrice": 4730,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 4730,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -68874,7 +68874,7 @@
     "bosyuPrice": 6160,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 6160,
     "group": 2,
     "rule": "G2-3",
     "reason": "非北社系牧场高募集价"
@@ -69476,7 +69476,7 @@
     "bosyuPrice": 4180,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 4180,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -71478,10 +71478,10 @@
     "bosyuPrice": 8800,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 8800,
     "group": 2,
-    "rule": "G2-3",
-    "reason": "非北社系牧场高募集价"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024105107",
@@ -71548,7 +71548,7 @@
     "bosyuPrice": 3960,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 3960,
     "group": 3,
     "rule": "G3",
     "reason": "没啥特别的理由，就不是Group1或2"
@@ -71702,7 +71702,7 @@
     "bosyuPrice": 7260,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 7260,
     "group": 2,
     "rule": "G2-3",
     "reason": "非北社系牧场高募集价"
@@ -72178,10 +72178,10 @@
     "bosyuPrice": 9900,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 9900,
     "group": 2,
-    "rule": "G2-3",
-    "reason": "非北社系牧场高募集价"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024105157",
@@ -80427,7 +80427,7 @@
     "salePrice": 9460,
     "group": 2,
     "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024105746",
@@ -80564,10 +80564,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 4300,
+    "salePrice": 14300,
     "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024105756",
@@ -81348,10 +81348,10 @@
     "bosyuPrice": 700,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
-    "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "salePrice": 40700,
+    "group": 1,
+    "rule": "G1-2",
+    "reason": "精选/Mix高价马"
   },
   {
     "horseId": "2024105812",
@@ -81880,10 +81880,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 7600,
-    "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "salePrice": 17600,
+    "group": 1,
+    "rule": "G1-2",
+    "reason": "精选/Mix高价马"
   },
   {
     "horseId": "2024105850",
@@ -82020,10 +82020,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 9700,
-    "group": 2,
-    "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "salePrice": 29700,
+    "group": 1,
+    "rule": "G1-2",
+    "reason": "精选/Mix高价马"
   },
   {
     "horseId": "2024105860",
@@ -82972,10 +82972,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 2650,
+    "salePrice": 12650,
     "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024105928",
@@ -83014,10 +83014,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 560,
+    "salePrice": 10560,
     "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024105931",
@@ -83028,10 +83028,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 6500,
+    "salePrice": 16500,
     "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024105932",
@@ -83182,10 +83182,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 2100,
+    "salePrice": 12100,
     "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024105943",
@@ -83409,7 +83409,7 @@
     "salePrice": 8360,
     "group": 2,
     "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024105959",
@@ -83795,13 +83795,13 @@
     "club": null,
     "breederCode": "39312600",
     "breederName": "社台ファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 40,
     "saleName": null,
     "salePrice": null,
-    "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "group": 1,
+    "rule": "G1-5",
+    "reason": "社台牧场高募集价"
   },
   {
     "horseId": "2024105987",
@@ -84025,7 +84025,7 @@
     "salePrice": 7920,
     "group": 2,
     "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024106003",
@@ -84218,10 +84218,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 3200,
+    "salePrice": 13200,
     "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024106017",
@@ -84876,10 +84876,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 5200,
-    "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "salePrice": 35200,
+    "group": 1,
+    "rule": "G1-2",
+    "reason": "精选/Mix高价马"
   },
   {
     "horseId": "2024106064",
@@ -85226,10 +85226,10 @@
     "bosyuPrice": 2000,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
-    "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "salePrice": 22000,
+    "group": 1,
+    "rule": "G1-2",
+    "reason": "精选/Mix高价马"
   },
   {
     "horseId": "2024106089",
@@ -85464,10 +85464,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 3750,
+    "salePrice": 13750,
     "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024106106",
@@ -85478,7 +85478,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 6500,
+    "salePrice": 16500,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -85590,7 +85590,7 @@
     "bosyuPrice": 6600,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 6600,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -85688,7 +85688,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 5400,
+    "salePrice": 15400,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -85996,7 +85996,7 @@
     "bosyuPrice": 2970,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 2970,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -86231,13 +86231,13 @@
     "club": null,
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": 4700,
+    "bosyuPrice": 14700,
     "bosyuUnit": 3000,
     "saleName": "セレクトセール2025",
-    "salePrice": 900,
+    "salePrice": 20900,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106161",
@@ -86287,8 +86287,8 @@
     "club": "シルクレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 500,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -86374,10 +86374,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 7500,
+    "salePrice": 27500,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106171",
@@ -86430,7 +86430,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 560,
+    "salePrice": 10560,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -86446,8 +86446,8 @@
     "saleName": "ミックスセール2024",
     "salePrice": 22000,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106176",
@@ -86455,13 +86455,13 @@
     "club": null,
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": 9400,
+    "bosyuPrice": 19400,
     "bosyuUnit": 2000,
     "saleName": "セレクトセール2024",
-    "salePrice": 7600,
+    "salePrice": 17600,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106177",
@@ -86514,7 +86514,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 2650,
+    "salePrice": 12650,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -86612,10 +86612,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 6400,
+    "salePrice": 26400,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106188",
@@ -86724,7 +86724,7 @@
     "bosyuPrice": 5940,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 5940,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -86836,7 +86836,7 @@
     "bosyuPrice": 4620,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 4620,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -86906,7 +86906,7 @@
     "bosyuPrice": 6380,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 6380,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -87060,7 +87060,7 @@
     "bosyuPrice": 4850,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 14850,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -87074,7 +87074,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 1000,
+    "salePrice": 11000,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -87508,7 +87508,7 @@
     "bosyuPrice": 5390,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 5390,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -88149,8 +88149,8 @@
     "club": "サンデーレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 40,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -88376,10 +88376,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 3000,
+    "salePrice": 33000,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106314",
@@ -88387,8 +88387,8 @@
     "club": "サンデーレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 40,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -88658,8 +88658,8 @@
     "saleName": "ミックスセール2024",
     "salePrice": 24200,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106334",
@@ -88877,8 +88877,8 @@
     "club": "シルクレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 500,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -89006,7 +89006,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 3750,
+    "salePrice": 13750,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -89146,10 +89146,10 @@
     "bosyuPrice": 6400,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 26400,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106369",
@@ -89227,7 +89227,7 @@
     "club": "キャロットファーム",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": 2000,
+    "bosyuPrice": 12000,
     "bosyuUnit": 400,
     "saleName": null,
     "salePrice": null,
@@ -89773,7 +89773,7 @@
     "club": null,
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": 4000,
+    "bosyuPrice": 14000,
     "bosyuUnit": 500,
     "saleName": null,
     "salePrice": null,
@@ -89944,10 +89944,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 900,
+    "salePrice": 20900,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106426",
@@ -90170,8 +90170,8 @@
     "saleName": "ミックスセール2024",
     "salePrice": 28600,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106442",
@@ -90319,7 +90319,7 @@
     "club": "サンデーレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": 2000,
+    "bosyuPrice": 12000,
     "bosyuUnit": 40,
     "saleName": null,
     "salePrice": null,
@@ -90364,7 +90364,7 @@
     "bosyuPrice": 8580,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 8580,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -90375,8 +90375,8 @@
     "club": "サンデーレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 40,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -90938,10 +90938,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 5100,
+    "salePrice": 45100,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106497",
@@ -91106,10 +91106,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 800,
+    "salePrice": 30800,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106509",
@@ -91257,8 +91257,8 @@
     "club": "キャロットファーム",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 400,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -91523,8 +91523,8 @@
     "club": "キャロットファーム",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 400,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -91582,10 +91582,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 3000,
+    "salePrice": 33000,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106543",
@@ -91596,10 +91596,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 8700,
+    "salePrice": 18700,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106544",
@@ -91649,8 +91649,8 @@
     "club": "サンデーレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 40,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -91806,10 +91806,10 @@
     "bosyuPrice": 7500,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 27500,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106559",
@@ -92128,7 +92128,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 780,
+    "salePrice": 10780,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -92184,10 +92184,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 7600,
+    "salePrice": 17600,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106586",
@@ -92699,7 +92699,7 @@
     "club": "キャロットファーム",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": 6000,
+    "bosyuPrice": 16000,
     "bosyuUnit": 400,
     "saleName": null,
     "salePrice": null,
@@ -92732,8 +92732,8 @@
     "saleName": "ミックスセール2024",
     "salePrice": 31900,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106625",
@@ -92940,7 +92940,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 120,
+    "salePrice": 10120,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -93038,7 +93038,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 2650,
+    "salePrice": 12650,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -93080,10 +93080,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 8600,
+    "salePrice": 28600,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106650",
@@ -93164,10 +93164,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 6200,
+    "salePrice": 46200,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106656",
@@ -93262,10 +93262,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 4100,
+    "salePrice": 34100,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106663",
@@ -93318,7 +93318,7 @@
     "bosyuPrice": 2530,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 2530,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -93329,7 +93329,7 @@
     "club": null,
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": 8000,
+    "bosyuPrice": 18000,
     "bosyuUnit": 4000,
     "saleName": null,
     "salePrice": null,
@@ -93371,8 +93371,8 @@
     "club": "キャロットファーム",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 400,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -93430,7 +93430,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 5400,
+    "salePrice": 15400,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -93441,7 +93441,7 @@
     "club": "サンデーレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": 2000,
+    "bosyuPrice": 12000,
     "bosyuUnit": 40,
     "saleName": null,
     "salePrice": null,
@@ -93528,7 +93528,7 @@
     "bosyuPrice": 120,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 10120,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -93567,8 +93567,8 @@
     "club": "シルクレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 500,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -93612,7 +93612,7 @@
     "bosyuPrice": 3850,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 3850,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -93752,7 +93752,7 @@
     "bosyuPrice": 5720,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
+    "salePrice": 5720,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -93822,10 +93822,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 8700,
+    "salePrice": 18700,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106703",
@@ -93850,10 +93850,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 5300,
+    "salePrice": 25300,
     "group": 1,
-    "rule": "G1-1",
-    "reason": "北方牧场产出"
+    "rule": "G1-1+G1-2",
+    "reason": "北方牧场产出 | 精选/Mix高价马"
   },
   {
     "horseId": "2024106705",
@@ -94368,7 +94368,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 4300,
+    "salePrice": 14300,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -94410,7 +94410,7 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 4300,
+    "salePrice": 14300,
     "group": 1,
     "rule": "G1-1",
     "reason": "北方牧场产出"
@@ -94463,8 +94463,8 @@
     "club": "サンデーレーシング",
     "breederCode": "37312600",
     "breederName": "ノーザンファーム",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 40,
     "saleName": null,
     "salePrice": null,
     "group": 1,
@@ -96230,10 +96230,10 @@
     "bosyuPrice": 5950,
     "bosyuUnit": null,
     "saleName": "セレクトセール2024",
-    "salePrice": null,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 15950,
+    "group": 2,
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024106875",
@@ -96244,10 +96244,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 1000,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 11000,
+    "group": 2,
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024106876",
@@ -96398,10 +96398,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 9800,
-    "group": 2,
-    "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "salePrice": 19800,
+    "group": 1,
+    "rule": "G1-2",
+    "reason": "精选/Mix高价马"
   },
   {
     "horseId": "2024106887",
@@ -96524,10 +96524,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 780,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 10780,
+    "group": 2,
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024106896",
@@ -96958,10 +96958,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 120,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 10120,
+    "group": 2,
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024106927",
@@ -98358,10 +98358,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 900,
-    "group": 2,
-    "rule": "G2-1",
-    "reason": "社台系牧场低价/无募集"
+    "salePrice": 20900,
+    "group": 1,
+    "rule": "G1-2",
+    "reason": "精选/Mix高价马"
   },
   {
     "horseId": "2024107027",
@@ -100066,10 +100066,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 8150,
-    "group": 2,
-    "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "salePrice": 18150,
+    "group": 1,
+    "rule": "G1-2",
+    "reason": "精选/Mix高价马"
   },
   {
     "horseId": "2024107149",
@@ -100153,7 +100153,7 @@
     "salePrice": 7920,
     "group": 2,
     "rule": "G2-2",
-    "reason": "所有拍卖中等价位"
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024107155",
@@ -100164,10 +100164,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 3750,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 13750,
+    "group": 2,
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024107156",
@@ -100234,10 +100234,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 5950,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 15950,
+    "group": 2,
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024107161",
@@ -100276,10 +100276,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 1550,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 11550,
+    "group": 2,
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024107164",
@@ -100332,10 +100332,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 1550,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 11550,
+    "group": 2,
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024107168",
@@ -101676,10 +101676,10 @@
     "bosyuPrice": null,
     "bosyuUnit": null,
     "saleName": "セレクトセール2025",
-    "salePrice": 3200,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "salePrice": 13200,
+    "group": 2,
+    "rule": "G2-2",
+    "reason": "拍卖中等价位"
   },
   {
     "horseId": "2024107264",
@@ -106601,13 +106601,13 @@
     "club": null,
     "breederCode": "86071300",
     "breederName": "Hiroo Race Co. LTD",
-    "bosyuPrice": null,
-    "bosyuUnit": null,
+    "bosyuPrice": 10000,
+    "bosyuUnit": 4000,
     "saleName": null,
     "salePrice": null,
-    "group": 3,
-    "rule": "G3",
-    "reason": "没啥特别的理由，就不是Group1或2"
+    "group": 2,
+    "rule": "G2-3",
+    "reason": "非北社系牧场高募集价"
   },
   {
     "horseId": "2024108189",
