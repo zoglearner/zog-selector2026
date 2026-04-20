@@ -134,7 +134,15 @@ const existingImages = ['G1-1', 'G1-2', 'G2-1', 'G2-2', 'G3', '未匹配'];
 function showRuleMeme(rule) {
   if (!memeModal) return;
   
-  const imageName = existingImages.includes(rule) ? rule : null;
+  // 从多个规则中随机选择一个（如 G1-1+G1-2 随机选 G1-1 或 G1-2）
+  const rules = rule.split('+');
+  let imageName = null;
+  for (const r of rules.sort(() => Math.random() - 0.5)) {
+    if (existingImages.includes(r)) {
+      imageName = r;
+      break;
+    }
+  }
   
   if (imageName) {
     // 显示图片
