@@ -110003,7 +110003,7 @@ function queryMother() {
   
   const imageName = existingImages.includes(memeRule) ? memeRule : null;
   if (imageName) {
-    memeHtml = `<img src="./images/${imageName}.jpg" class="result-meme" alt="梗图">`;
+memeHtml = `<img src="./${imageName}.jpg" class="result-meme" alt="梗图">`;
   } else {
     memeHtml = `<div class="result-meme-text">梗图募集中</div>`;
   }
