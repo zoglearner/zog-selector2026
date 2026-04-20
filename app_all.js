@@ -109939,19 +109939,15 @@ const queryResult = document.getElementById('query-result');
 // ==================== 梗图配置 ====================
 const memes = {
   1: [
-    { image: 'images/g1/meme1.jpg', text: 'Group 1马！今天的运气爆棚！' },
-    { image: 'images/g1/meme2.jpg', text: '精英赛马，期待你的表现！' },
-    { image: 'images/g1/meme3.jpg', text: '北方牧场品质，值得信赖！' }
+    { image: 'G1-1.jpg', text: 'Group 1马！今天的运气爆棚！' },
+    { image: 'G1-2.jpg', text: '精英赛马，期待你的表现！' }
   ],
   2: [
-    { image: 'images/g2/meme1.jpg', text: 'Group 2，稳健型选手！' },
-    { image: 'images/g2/meme2.jpg', text: '潜力股，说不定是黑马！' },
-    { image: 'images/g2/meme3.jpg', text: '好好培养，前途无量！' }
+    { image: 'G2-1.jpg', text: 'Group 2，稳健型选手！' },
+    { image: 'G2-2.jpg', text: '潜力股，说不定是黑马！' }
   ],
   3: [
-    { image: 'images/g3/meme1.jpg', text: 'Group 3，捡到宝了！' },
-    { image: 'images/g3/meme2.jpg', text: '说不定是未来的大物！' },
-    { image: 'images/g3/meme3.jpg', text: '纯真的梦想，无价的快乐！' }
+    { image: 'G3.jpg', text: 'Group 3，捡到宝了！' }
   ]
 };
 
@@ -110055,7 +110051,7 @@ function showRuleMeme(rule) {
         // 图片加载失败时显示占位
         this.style.display = 'none';
       };
-      memeImage.src = `./images/${imageName}.jpg`;
+      memeImage.src = `./${imageName}.jpg`;
     }
     if (memeText) memeText.textContent = '';
   } else {
