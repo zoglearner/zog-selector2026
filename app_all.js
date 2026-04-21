@@ -40,7 +40,7 @@ const recommendMothers = {
 
 // 骆驼精选梗图（交替使用）
 const camelMemes = [
-  { image: './骆驼.jpg', text: '骆驼帮精选！慧眼识珠！' }
+  { image: './images/骆驼.jpg', text: '骆驼帮精选！慧眼识珠！' }
 ];
 
 // 梗图交替状态
@@ -60,19 +60,19 @@ function getRecommendType(mother) {
 // ==================== 梗图配置 ====================
 const memes = {
   1: [
-    { image: './G1-1.jpg', text: '北方牧场产出' },
-    { image: './G1-2.jpg', text: '精选/Mix高价马' },
-    { image: './G1-3.jpg', text: '社台俱乐部募集' },
-    { image: './G1-5.jpg', text: '种马马主关联' },
-    { image: './G1-6.jpg', text: '高身价拍卖' }
+    { image: './images/G1-1.jpg', text: '北方牧场产出' },
+    { image: './images/G1-2.jpg', text: '精选/Mix高价马' },
+    { image: './images/G1-3.jpg', text: '社台俱乐部募集' },
+    { image: './images/G1-5.jpg', text: '种马马主关联' },
+    { image: './images/G1-6.jpg', text: '高身价拍卖' }
   ],
   2: [
-    { image: './G2-1.jpg', text: '普通俱乐部募集' },
-    { image: './G2-2.jpg', text: '拍卖中等价位' },
-    { image: './G2-3.jpg', text: '其他高价马' }
+    { image: './images/G2-1.jpg', text: '普通俱乐部募集' },
+    { image: './images/G2-2.jpg', text: '拍卖中等价位' },
+    { image: './images/G2-3.jpg', text: '其他高价马' }
   ],
   3: [
-    { image: './G3.jpg', text: '普通马' }
+    { image: './images/G3.jpg', text: '普通马' }
   ]
 };
 
@@ -130,7 +130,7 @@ function queryMother() {
   const selectedRule = rules[Math.floor(Math.random() * rules.length)];
   const imageName = existingImages.includes(selectedRule) ? selectedRule : null;
   if (imageName) {
-    memeHtml = '<img src="./' + imageName + '.jpg" class="result-meme" alt="梗图">';
+    memeHtml = '<img src="./images/' + imageName + '.jpg'" class="result-meme" alt="梗图">';
   } else {
     memeHtml = '<div class="result-meme-text">梗图募集中</div>';
   }
@@ -198,7 +198,7 @@ function showRuleMeme(rule) {
       memeImage.onerror = function() {
         this.style.display = 'none';
       };
-      memeImage.src = './' + imageName + '.jpg';
+      memeImage.src = './images/' + imageName + '.jpg';
     }
     if (memeText) memeText.textContent = '';
   } else {
