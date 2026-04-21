@@ -143,7 +143,7 @@ function queryMother() {
   const selectedRule = rules[Math.floor(Math.random() * rules.length)];
   const imageName = existingImages.includes(selectedRule) ? selectedRule : null;
   if (imageName) {
-    memeHtml = '<img src="./images/' + imageName + '.jpg'" class="result-meme" alt="梗图">';
+    memeHtml = `<img src="./images/${imageName}.jpg" class="result-meme" alt="梗图">`;
   } else {
     memeHtml = '<div class="result-meme-text">梗图募集中</div>';
   }
