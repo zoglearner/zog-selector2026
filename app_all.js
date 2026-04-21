@@ -84,6 +84,9 @@ function init() {
   console.log('已加载 ' + horsesData.length + ' 匹马的数据');
 }
 
+// 页面加载完成后初始化
+document.addEventListener('DOMContentLoaded', init);
+
 // ==================== 母亲查询 ====================
 function queryMother() {
   const motherName = motherInput.value.trim();
