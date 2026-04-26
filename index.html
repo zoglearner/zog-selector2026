@@ -9,8 +9,8 @@
 <body>
   <div class="container">
     <header class="header">
-      <h1>ZOG 2026 Group查找器１.0版</h1>
-      <p class="subtitle">使用马妈名称，看看这条小马属于哪个Group</p>
+      <h1>ZOG 2026 Group检查器Beta测试版</h1>
+      <p class="subtitle">如有问题，请滴滴刨冰🍧</p>
     </header>
 
     <main class="main">
@@ -20,6 +20,7 @@
         <div class="query-form">
           <input type="text" id="mother-input" placeholder="输入母亲马名..." class="query-input">
           <button class="query-btn" id="query-btn">查询</button>
+          <button class="clear-btn" id="clear-query-btn">清空</button>
         </div>
         <div class="query-result" id="query-result"></div>
       </section>
@@ -52,22 +53,28 @@
         </div>
       </section> -->
 
-      <!-- 统计信息 -->
-      <section class="stats-section">
-        <div class="stats-grid">
-          <div class="stat-item g1-stat">
-            <span class="stat-label">Group 1</span>
-            <span class="stat-value" id="stat-g1">0</span>
-          </div>
-          <div class="stat-item g2-stat">
-            <span class="stat-label">Group 2</span>
-            <span class="stat-value" id="stat-g2">0</span>
-          </div>
-          <div class="stat-item g3-stat">
-            <span class="stat-label">Group 3</span>
-            <span class="stat-value" id="stat-g3">0</span>
-          </div>
+      <!-- 加载状态 -->
+      <section class="stats-section" id="stats-section">
+        <div class="loading-container" id="loading-container">
+          <div class="loading-spinner"></div>
+          <span class="loading-text">加载马匹数据中...</span>
         </div>
+      </section>
+
+      <!-- 2.0版本：我的选择列表 -->
+      <section class="selection-section" id="selection-section">
+        <h2>我的选择列表 <span id="selection-count">(0/10)</span></h2>
+        
+        <div class="selection-list" id="selection-list">
+          <div class="selection-empty">搜索母马后，点击「添加到选择」按钮添加到这里</div>
+        </div>
+        
+        <div class="selection-actions">
+          <button class="validate-btn" id="validate-btn">验证选择</button>
+          <button class="clear-selection-btn" id="clear-btn">清空列表</button>
+        </div>
+        
+        <div class="validation-result" id="validation-result"></div>
       </section>
     </main>
 
