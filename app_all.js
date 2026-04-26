@@ -1057,20 +1057,15 @@ function validateSelections() {
     }
   }
 
-  // 规则3：同父限制（考虑特殊规则1和2）
-  const fatherCounts = {};
-  selectedHorses.forEach(h => {
-    fatherCounts[h.father] = (fatherCounts[h.father] || 0) + 1;
-  });
-
+  // Group基础数据
   const g1Count = selectedHorses.filter(h => h.group === 1).length;
   const g2Count = selectedHorses.filter(h => h.group === 2).length;
   const g3Count = selectedHorses.filter(h => h.group === 3).length;
 
-  // 计算种费<500万的G1数量
+  // 计算种费<500万的G1数量（用于特殊规则检查）
   const lowFeeG1Count = selectedHorses.filter(h => h.group === 1 && isLowFeeHorse(h)).length;
 
-  // 计算可扩展次数
+  // 计算可扩展次数（先检查特殊规则2是否触发）
   let maxExtensions = 0;
   if (lowFeeG1Count >= 2) {
     // 触发特殊规则2：可扩展次数 = 种费<500万G1 - 2
@@ -1080,7 +1075,12 @@ function validateSelections() {
     maxExtensions = Math.max(0, 5 - g1Count);
   }
 
-  // 计算需要的扩展次数
+  // 规则3：同父限制（根据可扩展次数验证）
+  const fatherCounts = {};
+  selectedHorses.forEach(h => {
+    fatherCounts[h.father] = (fatherCounts[h.father] || 0) + 1;
+  });
+
   const overLimitFathers = Object.entries(fatherCounts)
     .filter(([, count]) => count > 2)
     .map(([father, count]) => ({ father, count, needed: count - 2 }));
@@ -1088,7 +1088,7 @@ function validateSelections() {
   const neededExtensions = overLimitFathers.reduce((sum, f) => sum + f.needed, 0);
 
   if (neededExtensions > maxExtensions) {
-    overLimitFathers.forEach(({ father, count }) => {
+    overLimitFathers.forEach(({ father }) => {
       errors.push(`🐎 ${father} 产驹数量超标啦，看看别家的？`);
     });
   }
