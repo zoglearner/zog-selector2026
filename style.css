@@ -952,6 +952,54 @@ body.dragging-active .selection-item {
   z-index: 100;
 }
 
+/* ==================== 移动端拖动视觉反馈 ==================== */
+@media (hover: none) and (pointer: coarse) {
+  /* 移动端拖动手柄样式 - 增大触摸区域 */
+  .drag-handle {
+    padding: 10px 8px;
+    cursor: grab;
+  }
+
+  /* 移动端拖动中的项目 - 更大的视觉反馈 */
+  .selection-item.touch-dragging {
+    opacity: 0.9;
+    background: var(--card-bg);
+    transform: scale(1.03);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.35);
+    z-index: 1000;
+    border: 2px solid var(--accent-color);
+  }
+
+  /* 移动端插入位置指示器 - 顶部 */
+  .selection-item.insert-before::before {
+    content: '';
+    position: absolute;
+    top: -4px;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: var(--accent-color);
+    border-radius: 2px;
+  }
+
+  /* 移动端插入位置指示器 - 底部 */
+  .selection-item.insert-after::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: var(--accent-color);
+    border-radius: 2px;
+  }
+
+  /* 移动端非拖动项目 - 降低不透明度 */
+  .selection-item.touch-moving {
+    transition: transform 0.15s ease, opacity 0.15s ease;
+  }
+}
+
 /* 拖拽占位虚线框 */
 #drag-placeholder {
   display: none;
