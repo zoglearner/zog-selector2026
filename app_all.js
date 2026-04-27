@@ -737,8 +737,8 @@ function getHorseTags(horse) {
 
   // 如果找到种马数据，添加新种马和种费标签
   if (sireInfo) {
-    // 新种马（供用年数1年目）
-    if (sireInfo['供用年数'] && sireInfo['供用年数'].includes('1年目')) {
+    // 新种马（供用年数1年目，精确匹配1，不能是11年目、21年目）
+    if (sireInfo['供用年数'] && sireInfo['供用年数'] === '1年目') {
       tags.push({ type: 'new', label: '🆕 新种马' });
     }
 
